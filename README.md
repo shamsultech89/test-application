@@ -1,4 +1,4 @@
-Clone React application from https://github.com/shamsultech89/test-application
+Clone React application from https://github.com/shamsultech89/search-github-user-react
 # Steps to run React application
 * npm install
 
